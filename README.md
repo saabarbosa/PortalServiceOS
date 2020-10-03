@@ -3,8 +3,6 @@ Portal Web com autenticação para registro de OS e solicitações em geral
 
 ---
 
----
-
 ## Arquitetura
 
 C# .NET com SQL Server
