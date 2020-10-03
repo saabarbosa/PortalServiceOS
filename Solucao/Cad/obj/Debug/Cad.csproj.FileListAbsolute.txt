@@ -1,0 +1,16 @@
+D:\temp\diversos\Apparato\Cad\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\diversos\Apparato\Cad\bin\Debug\Cad.dll
+D:\temp\diversos\Apparato\Cad\bin\Debug\Cad.pdb
+D:\temp\diversos\Apparato\Cad\bin\Debug\Modelo.dll
+D:\temp\diversos\Apparato\Cad\bin\Debug\Modelo.pdb
+D:\temp\diversos\Apparato\Cad\obj\Debug\Cad.dll
+D:\temp\diversos\Apparato\Cad\obj\Debug\Cad.pdb
+D:\temp\diversos\Apparato\Cad\bin\Debug\Cad.dll.config
+D:\Clientes\Apparato\Solucao\Cad\bin\Debug\Cad.dll.config
+D:\Clientes\Apparato\Solucao\Cad\bin\Debug\Cad.dll
+D:\Clientes\Apparato\Solucao\Cad\bin\Debug\Cad.pdb
+D:\Clientes\Apparato\Solucao\Cad\bin\Debug\Modelo.dll
+D:\Clientes\Apparato\Solucao\Cad\bin\Debug\Modelo.pdb
+D:\Clientes\Apparato\Solucao\Cad\obj\Debug\ResolveAssemblyReference.cache
+D:\Clientes\Apparato\Solucao\Cad\obj\Debug\Cad.dll
+D:\Clientes\Apparato\Solucao\Cad\obj\Debug\Cad.pdb

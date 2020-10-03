@@ -1,0 +1,12 @@
+D:\temp\diversos\Apparato\Modelo\bin\Debug\Modelo.dll
+D:\temp\diversos\Apparato\Modelo\bin\Debug\Modelo.pdb
+D:\temp\diversos\Apparato\Modelo\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\diversos\Apparato\Modelo\obj\Debug\Modelo.dll
+D:\temp\diversos\Apparato\Modelo\obj\Debug\Modelo.pdb
+D:\temp\diversos\Apparato\Modelo\bin\Debug\Modelo.dll.config
+D:\Clientes\Apparato\Solucao\Modelo\bin\Debug\Modelo.dll.config
+D:\Clientes\Apparato\Solucao\Modelo\bin\Debug\Modelo.dll
+D:\Clientes\Apparato\Solucao\Modelo\bin\Debug\Modelo.pdb
+D:\Clientes\Apparato\Solucao\Modelo\obj\Debug\ResolveAssemblyReference.cache
+D:\Clientes\Apparato\Solucao\Modelo\obj\Debug\Modelo.dll
+D:\Clientes\Apparato\Solucao\Modelo\obj\Debug\Modelo.pdb

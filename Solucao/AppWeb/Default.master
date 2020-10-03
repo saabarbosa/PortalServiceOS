@@ -1,0 +1,126 @@
+<%@	Master Language="C#" CodeFile="Default.master.cs" Inherits="Default_master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head runat="server">
+    <title><< Apparato >></title>
+	<meta name="description" content="Apparato"/>
+    <meta name="keywords" content="Impressão, OutSourcing, OutSourcing de Impressão, GED, Redução de Custo"/>
+    <meta name="robots" content="ALL"/>
+    <meta name="distribution" content="Global"/>
+    <meta name="rating" content="General"/>
+    <meta name="language" content="Português"/>
+    <meta name="doc-type" content="Web Page"/>
+    <meta name="doc-class" content="Published"/>
+    <meta name="expires" content="never"/>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>      
+</head>
+<body>
+
+	<form id="form1" runat="server">
+
+    <table width="790" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="86">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="Default.aspx"><img src="Images/logo.png" width="193" height="60" 
+                    border="0" /></a></td>
+            <td width="145">
+                <asp:ImageButton ID="ImageButton8" runat="server" ImageUrl="Images/login.png" 
+                    width="143" height="47" onclientclick="window.open('Login.aspx','login')" /></td>
+          </tr>
+        </table>
+	    </td>
+      </tr>
+    </table>
+    <table width="791" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="791">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="5"><img src="Images/menu_left.png" width="5" height="41" /></td>
+            <td width="77"><asp:ImageButton ID="ImageButton1" runat="server" 
+                    ImageUrl="Images/menu_home.png" width="77" height="41" 
+                    onclick="ImageButton1_Click" /></td>
+            <td width="5"><img src="Images/menu_separador.png" width="5" height="41" /></td>
+            <td width="93">
+                <asp:ImageButton ID="ImageButton2" runat="server" 
+                    ImageUrl="Images/menu_empresa.png" width="93" height="41" 
+                    onclick="ImageButton2_Click" /></td>
+            <td width="5"><img src="Images/menu_separador.png" width="5" height="41" /></td>
+            <td width="96">
+                <asp:ImageButton ID="ImageButton3" runat="server" 
+                    ImageUrl="Images/menu_servicos.png" width="96" height="41" 
+                    onclick="ImageButton3_Click" /></td>
+            <td width="5"><img src="Images/menu_separador.png" width="5" height="41" /></td>
+            <td width="115">
+                <asp:ImageButton ID="ImageButton4" runat="server" 
+                    ImageUrl="Images/menu_orcamento.png" Width="115" Height="41" 
+                    onclick="ImageButton4_Click" /></td>
+            <td width="5"><img src="Images/menu_separador.png" width="5" height="41" /></td>
+            <td width="109">
+                <asp:ImageButton ID="ImageButton5" runat="server" 
+                    ImageUrl="Images/menu_produtos.png" width="109" height="41" 
+                    onclick="ImageButton5_Click"/></td>		
+            <td width="5"><img src="Images/menu_separador.png" width="5" height="41" /></td>
+            <td width="106">
+                <asp:ImageButton ID="ImageButton6" runat="server" 
+                    ImageUrl="Images/menu_parcerias.png" width="106" height="41" 
+                    onclick="ImageButton6_Click" /></td>		
+            <td width="5"><img src="Images/menu_separador.png" width="5" height="41" /></td>
+            <td width="87">
+                <asp:ImageButton ID="ImageButton7" runat="server" 
+                    ImageUrl="Images/menu_contato.png" width="87" height="41" 
+                    onclick="ImageButton7_Click1" /></td>		
+            <td background="Images/menu_back.png">&nbsp;</td>
+            <td width="5"><img src="Images/menu_right.png" width="5" height="41" /></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+
+    <table width="790" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="Images/spacer.gif" height="3" /></td>
+      </tr>
+      <tr>
+        <td><script type="text/javascript">
+                AC_FL_RunContent('codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0', 'width', '790', 'height', '180', 'src', 'Banner', 'quality', 'high', 'pluginspage', 'http://www.macromedia.com/go/getflashplayer', 'movie', 'Banner'); //end AC code
+            </script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="790" height="180">
+          <param name="movie" value="Banner.swf" />
+          <param name="quality" value="high" />
+          <embed src="Banner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="790" height="180"></embed>
+        </object></noscript></td>
+      </tr>
+    </table>  
+			
+    <table width="790" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top"><asp:contentplaceholder id="Main" runat="server" /></td>
+      </tr>
+    </table>
+    <table width="790" height="58" border="0" align="center" cellpadding="0" cellspacing="0" background="Images/back_rodape.png">
+      <tr>
+        <td><div align="center"><span class="footer"><a href="http://twitter.com/apparato" target="_blank"><img src="Images/twitter.png" style="border:0" width="105" height="25" /></a>&nbsp;&nbsp;<a href="http://www.apparatoshop.com.br" target="_blank"><img src="Images/ico_shopping_cart.png" style="border:0"/></a><br />
+        <asp:menu id="menub" runat="server" 
+			datasourceid="SiteMapDataSource1" 
+			cssclass="footer"
+			orientation="Horizontal" 
+			maximumdynamicdisplaylevels="0" 
+			skiplinktext="" 
+			staticdisplaylevels="2" />
+	        <asp:sitemapdatasource id="SiteMapDataSource1" runat="server" startingnodeoffset="0" />
+          &copy; 2010 apparato.com.br - Todos os direitos reservados</span><br />
+        </div></td>
+      </tr>
+    </table>
+    
+	</form>
+	
+</body>
+</html>
